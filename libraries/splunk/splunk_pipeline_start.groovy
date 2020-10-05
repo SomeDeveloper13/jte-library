@@ -1,5 +1,5 @@
 @Init
 void call(context){
-	echo context
+	println context
 	println "Splunk: beginning of the pipeline!"
 }
